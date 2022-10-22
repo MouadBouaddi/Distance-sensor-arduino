@@ -1,5 +1,5 @@
 # Distance Sensor Arduino:
-This project was for fun and it may contains some bugs or problems in the code because it was only for fun!
+This project was for fun and it may contains some bugs or problems in the code.
 
 this is an arduino project, that means you need to have those following equipements:
 
